@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RIITS Deck Template</title>
+    <link rel="stylesheet" href="../../../vendor/reveal/dist/reveal.css" />
+    <link rel="stylesheet" href="../../../vendor/reveal/dist/theme/black.css" id="theme" />
+    <style>
+      .deck-back {
+        position: fixed;
+        top: 12px;
+        right: 12px;
+        z-index: 30;
+        padding: 8px 12px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.14);
+        color: #fff;
+        text-decoration: none;
+        font-family: ui-sans-serif, system-ui, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="deck-back" href="../../../">回到入口</a>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="./slides.md"
+          data-separator="^---$"
+          data-separator-vertical="^--$"
+          data-separator-notes="^Notes:"
+          data-charset="utf-8"
+        ></section>
+      </div>
+    </div>
+
+    <script type="module" src="../../../assets/deck-loader.js"></script>
+  </body>
+</html>
