@@ -1,12 +1,12 @@
 [
   {
-    "id": "farglory-2026-06-12-fet-three-site-exchange",
+    "id": "farglory-2026-06-12-ad-dyeing-report",
     "client": "遠東",
-    "title": "遠東三地交流會展示內容",
+    "title": "AD染色處理報告",
     "date": "2026-06-12",
-    "slug": "2026-06-12-fet-three-site-exchange",
-    "path": "decks/farglory/2026-06-12-fet-three-site-exchange/",
-    "tags": ["三地交流會", "議題改善", "客戶簡報"],
+    "slug": "2026-06-12-ad-dyeing-report",
+    "path": "decks/farglory/2026-06-12-ad-dyeing-report/",
+    "tags": ["AD", "染色處理", "工卡異常", "客戶簡報"],
     "status": "active",
     "auth": {
       "required": true,

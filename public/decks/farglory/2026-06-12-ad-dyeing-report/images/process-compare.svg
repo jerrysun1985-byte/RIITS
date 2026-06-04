@@ -1,0 +1,94 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">染程优化改前改后对照图</title>
+  <desc id="desc">显示改前与改后两组升温曲线、助剂投放位置与 pH 条件的对照图。</desc>
+  <rect width="1200" height="560" rx="24" fill="#FCFBF8"/>
+  <rect x="38" y="36" width="526" height="488" rx="20" fill="white" stroke="#D7E0EE"/>
+  <rect x="636" y="36" width="526" height="488" rx="20" fill="white" stroke="#D7E0EE"/>
+  <text x="301" y="72" text-anchor="middle" fill="#1F315F" font-family="Arial, sans-serif" font-size="26" font-weight="700">改前</text>
+  <text x="899" y="72" text-anchor="middle" fill="#1F315F" font-family="Arial, sans-serif" font-size="26" font-weight="700">改后</text>
+
+  <g opacity="0.35" stroke="#D8DEE9" stroke-width="2">
+    <path d="M78 128H524"/>
+    <path d="M78 176H524"/>
+    <path d="M78 224H524"/>
+    <path d="M78 272H524"/>
+    <path d="M78 320H524"/>
+    <path d="M78 368H524"/>
+    <path d="M78 416H524"/>
+    <path d="M78 464H524"/>
+    <path d="M122 108V480"/>
+    <path d="M188 108V480"/>
+    <path d="M254 108V480"/>
+    <path d="M320 108V480"/>
+    <path d="M386 108V480"/>
+    <path d="M452 108V480"/>
+  </g>
+
+  <g opacity="0.35" stroke="#D8DEE9" stroke-width="2">
+    <path d="M676 128H1122"/>
+    <path d="M676 176H1122"/>
+    <path d="M676 224H1122"/>
+    <path d="M676 272H1122"/>
+    <path d="M676 320H1122"/>
+    <path d="M676 368H1122"/>
+    <path d="M676 416H1122"/>
+    <path d="M676 464H1122"/>
+    <path d="M720 108V480"/>
+    <path d="M786 108V480"/>
+    <path d="M852 108V480"/>
+    <path d="M918 108V480"/>
+    <path d="M984 108V480"/>
+    <path d="M1050 108V480"/>
+  </g>
+
+  <g stroke="#2B2B2B" stroke-width="4" fill="none">
+    <path d="M120 438 L160 438 L160 376 L214 376 L278 320 L342 222 L414 222 L474 320 L504 320"/>
+    <path d="M718 438 L764 438 L764 392 L818 392 L890 286 L954 224 L1012 224 L1080 224 L1120 308"/>
+  </g>
+
+  <g fill="#1F315F" font-family="Arial, sans-serif" font-size="16" font-weight="700">
+    <text x="166" y="366">60°</text>
+    <text x="228" y="312">80°</text>
+    <text x="296" y="214">100°</text>
+    <text x="350" y="214">130°</text>
+    <text x="426" y="214">30min</text>
+    <text x="460" y="308">1°/min</text>
+
+    <text x="772" y="382">60°</text>
+    <text x="844" y="280">100°</text>
+    <text x="916" y="214">120°</text>
+    <text x="972" y="214">130°</text>
+    <text x="1032" y="214">30min</text>
+    <text x="1110" y="300">1°/min</text>
+  </g>
+
+  <g fill="#FCFBF8" stroke="#AEB9CE">
+    <rect x="118" y="366" width="72" height="58" rx="8"/>
+    <rect x="192" y="366" width="72" height="58" rx="8"/>
+    <rect x="266" y="366" width="72" height="58" rx="8"/>
+    <rect x="716" y="382" width="72" height="58" rx="8"/>
+    <rect x="790" y="382" width="72" height="58" rx="8"/>
+    <rect x="864" y="382" width="72" height="58" rx="8"/>
+  </g>
+
+  <g fill="#1F315F" font-family="Arial, sans-serif" font-size="14" font-weight="700">
+    <text x="154" y="392" text-anchor="middle">烧碱</text>
+    <text x="228" y="392" text-anchor="middle">助剂</text>
+    <text x="302" y="392" text-anchor="middle">染料</text>
+    <text x="752" y="408" text-anchor="middle">烧碱</text>
+    <text x="826" y="408" text-anchor="middle">助剂</text>
+    <text x="900" y="408" text-anchor="middle">染料</text>
+  </g>
+
+  <g fill="#C44D33" font-family="Arial, sans-serif" font-size="15" font-weight="700">
+    <text x="324" y="478">pH Plus: 4.5-5.5</text>
+    <text x="324" y="500">pH ACE: 6.0-8.0</text>
+    <text x="922" y="478">pH Plus: 4.5-5.5</text>
+    <text x="922" y="500">pH ACE: 6.0-8.0</text>
+  </g>
+
+  <g fill="#4E5E83" font-family="Arial, sans-serif" font-size="14">
+    <text x="120" y="520">旧染程：120°C持温 10 分，升温变化较快</text>
+    <text x="718" y="520">新染程：分段持温，100→120→130°C 斜率优化</text>
+  </g>
+</svg>
