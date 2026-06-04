@@ -16,6 +16,7 @@
 - `public/data/auth-config.json`: Deck 密碼設定
 - `public/templates/deck/`: 標準 deck 模板
 - `public/decks/...`: 實際簡報頁
+- `public/decks/riits/2026-06-04-image-table-template/`: 圖文表格正式範本
 - `public/decks/<client>/<yyyy-mm-dd-topic-slug>/images/`: 圖片素材
 - `public/decks/<client>/<yyyy-mm-dd-topic-slug>/assets/`: 其他附檔、圖表或匯出素材
 - `public/assets/deck-loader.js`: reveal.js 啟動腳本
@@ -75,6 +76,19 @@ npm run build
 6. Push 到 `main`
 
 GitHub Actions 會自動建置並發布到 Pages。
+
+### 圖文表格範本
+
+如果你要做有圖片、有表格的正式簡報，可以直接參考：
+
+- `public/decks/riits/2026-06-04-image-table-template/slides.md`
+- `public/decks/riits/2026-06-04-image-table-template/images/workflow.svg`
+
+這份範本已示範：
+
+- 如何把圖片放進 `images/`
+- 如何在 `slides.md` 裡引用相對路徑圖片
+- 如何用 HTML table 做比較完整的表格版面
 
 ## Markdown 與深層投影片
 

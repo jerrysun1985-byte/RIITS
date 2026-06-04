@@ -40,5 +40,18 @@
       "required": true,
       "key": "farglory-2026-05-23"
     }
+  },
+  {
+    "id": "riits-2026-06-04-image-table-template",
+    "client": "RIITS",
+    "title": "圖文表格正式範本",
+    "date": "2026-06-04",
+    "slug": "2026-06-04-image-table-template",
+    "path": "decks/riits/2026-06-04-image-table-template/",
+    "tags": ["正式範本", "圖文", "表格", "客戶簡報"],
+    "status": "active",
+    "auth": {
+      "required": false
+    }
   }
 ]
