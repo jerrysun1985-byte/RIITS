@@ -3,7 +3,7 @@
 這是一個專為客戶簡報設計的 GitHub Pages 站點。每份簡報都會保留成獨立 HTML deck，並用 Markdown 內容做成可複製的模板，方便後續持續新增、更新與下架。
 
 - 首頁入口：`https://jerrysun1985-byte.github.io/RIITS/`
-- 模板頁：`https://jerrysun1985-byte.github.io/RIITS/templates/deck/`
+- 模板頁：`https://jerrysun1985-byte.github.io/RIITS/templates/deck/`（公開，不需密碼）
 - Deck 路徑：`/RIITS/decks/<client>/<yyyy-mm-dd-topic-slug>/`
 - 簡報索引：`/RIITS/data/decks.json`
 - 密碼設定：`/RIITS/data/auth-config.json`
@@ -16,6 +16,8 @@
 - `public/data/auth-config.json`: Deck 密碼設定
 - `public/templates/deck/`: 標準 deck 模板
 - `public/decks/...`: 實際簡報頁
+- `public/decks/<client>/<yyyy-mm-dd-topic-slug>/images/`: 圖片素材
+- `public/decks/<client>/<yyyy-mm-dd-topic-slug>/assets/`: 其他附檔、圖表或匯出素材
 - `public/assets/deck-loader.js`: reveal.js 啟動腳本
 - `public/assets/auth-gate.js`: 密碼保護流程
 - `scripts/sync-reveal-assets.mjs`: 將 npm 的 reveal.js 靜態資產同步到 `public/vendor`
@@ -30,7 +32,25 @@ cp -R public/templates/deck public/decks/<client>/<yyyy-mm-dd-topic-slug>
 
 2. 編輯 `public/decks/<client>/<yyyy-mm-dd-topic-slug>/slides.md`
 
-3. 更新 `public/data/decks.json`
+3. 放入圖片或附件
+
+```text
+public/decks/<client>/<yyyy-mm-dd-topic-slug>/
+  ├─ slides.md
+  ├─ images/
+  │  ├─ chart.png
+  │  └─ photo.jpg
+  └─ assets/
+     └─ reference.pdf
+```
+
+在 `slides.md` 中用相對路徑引用，例如：
+
+```md
+![流程圖](./images/chart.png)
+```
+
+4. 更新 `public/data/decks.json`
 
 必要欄位：
 
@@ -45,14 +65,14 @@ cp -R public/templates/deck public/decks/<client>/<yyyy-mm-dd-topic-slug>
 - `auth.required`
 - `auth.key`
 
-4. 本機預覽與建置
+5. 本機預覽與建置
 
 ```bash
 npm run dev
 npm run build
 ```
 
-5. Push 到 `main`
+6. Push 到 `main`
 
 GitHub Actions 會自動建置並發布到 Pages。
 
@@ -62,12 +82,36 @@ GitHub Actions 會自動建置並發布到 Pages。
 - 水平投影片使用 `---`
 - 垂直投影片使用 `--`
 - 模板已內建 reveal.js 的 Markdown 插件，適合做同類型簡報的延伸版本
+- 表格優先使用 Markdown table；如果版面較複雜，也可以直接在 `slides.md` 放 HTML table
+
+## 如果你要我幫你新增一份簡報
+
+你只要提供以下素材，我就可以直接幫你整理成新的 deck：
+
+- 主題名稱
+- 日期
+- 客戶名稱
+- 每一頁的內容草稿
+- 表格資料
+- 圖片檔案
+- 你想要的投影片順序
+
+建議的資料夾內容如下：
+
+```text
+<topic-folder>/
+  ├─ slides.md
+  ├─ images/
+  ├─ assets/
+  └─ notes.md (可選，放備註或講稿)
+```
 
 ## 密碼保護
 
 - 每份 deck 都可以有自己的密碼
 - 密碼資料集中在 `public/data/auth-config.json`
 - 變更密碼時，只需要更新對應 key 的 SHA-256 雜湊與提示文字
+- 模板頁目前是公開頁，不需要密碼
 
 範例：
 

@@ -252,30 +252,29 @@ export async function ensureDeckAccess() {
   const currentPath = normalizePath(window.location.pathname.slice(basePath.length));
   const isTemplateDeck = currentPath === 'templates/deck/';
 
-  let deck = null;
   if (isTemplateDeck) {
-    deck = {
+    return {
       id: 'template',
       title: 'RIITS Deck Template',
       path: 'templates/deck/',
-      auth: { required: true, key: 'template' },
+      auth: { required: false, key: 'template' },
     };
-  } else {
-    let decks;
-    try {
-      decks = await fetchJson(urlFromBase(basePath, 'data/decks.json'));
-    } catch (error) {
-      renderFatalGate(`讀取簡報索引失敗：${error.message}`);
-      throw error;
-    }
+  }
 
-    deck = decks.find((item) => normalizePath(item.path) === currentPath);
+  let decks;
+  try {
+    decks = await fetchJson(urlFromBase(basePath, 'data/decks.json'));
+  } catch (error) {
+    renderFatalGate(`讀取簡報索引失敗：${error.message}`);
+    throw error;
+  }
 
-    if (!deck) {
-      const error = new Error(`Deck metadata not found for path "${currentPath}"`);
-      renderFatalGate('此頁面未註冊於 decks.json，已拒絕載入。');
-      throw error;
-    }
+  const deck = decks.find((item) => normalizePath(item.path) === currentPath);
+
+  if (!deck) {
+    const error = new Error(`Deck metadata not found for path "${currentPath}"`);
+    renderFatalGate('此頁面未註冊於 decks.json，已拒絕載入。');
+    throw error;
   }
 
   if (!deck.auth || deck.auth.required !== true) {
