@@ -3,20 +3,25 @@
     "ttlHours": 8
   },
   "passwords": {
+    "template": {
+      "hash": "ce317985a31d8c1dc045bc962cf2ac42b17ba794450177554b6d1d14a21d8346",
+      "hint": "請使用模板頁共用密碼",
+      "updatedAt": "2026-06-04"
+    },
     "farglory-2026-06-12": {
-      "hash": "0a29baa2a705e087cda35b444096fe5848c91276a5c29e8668fe281a4b546661",
+      "hash": "bee79d2fc82a02b41b869b22a18449a6b162fa28f75291c54a005f6ed070e418",
       "hint": "請使用 2026-06-12 專案密碼",
-      "updatedAt": "2026-05-23"
+      "updatedAt": "2026-06-04"
     },
     "farglory-2026-05-30": {
-      "hash": "1a255849121f5bcb130e95e083c38611387805e13623568ea46825e7bce9af47",
+      "hash": "e8f14f1aaca3fef3d1cb448a64ff935c61e1df71924217a42e525798ed315156",
       "hint": "請使用 2026-05-30 專案密碼",
-      "updatedAt": "2026-05-23"
+      "updatedAt": "2026-06-04"
     },
     "farglory-2026-05-23": {
-      "hash": "715a4936e2d653a5aeaca5fa10b9daae05e3738ed63e9fbec59f01bea61593f0",
+      "hash": "3a048f46530f6250613abeb2b699eafd0b0c4555f65dd716232c540d26a871de",
       "hint": "請使用 2026-05-23 專案密碼",
-      "updatedAt": "2026-05-23"
+      "updatedAt": "2026-06-04"
     }
   }
 }
