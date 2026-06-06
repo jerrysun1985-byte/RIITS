@@ -764,6 +764,231 @@
       .action-row__desc {
         color: rgba(248, 248, 244, 0.86);
       }
+
+      .topic-overview {
+        display: grid;
+        gap: 14px;
+      }
+
+      .topic-note {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.54rem;
+      }
+
+      .topic-summary-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.44rem;
+      }
+
+      .topic-summary-table th {
+        background: var(--navy);
+        color: #fff;
+        padding: 7px 5px;
+        font-weight: 800;
+      }
+
+      .topic-summary-table td {
+        padding: 7px 5px;
+        border-bottom: 1px solid rgba(31, 49, 95, 0.08);
+        background: rgba(255, 255, 255, 0.84);
+        vertical-align: top;
+      }
+
+      .topic-summary-table tbody tr:nth-child(even) td {
+        background: rgba(247, 244, 236, 0.9);
+      }
+
+      .topic-card-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .topic-card {
+        background: rgba(255, 255, 255, 0.84);
+        border: 1px solid rgba(31, 49, 95, 0.08);
+        border-top: 5px solid var(--blue);
+        padding: 14px;
+        box-shadow: 0 12px 30px rgba(21, 35, 66, 0.05);
+      }
+
+      .topic-card--gold {
+        border-top-color: var(--gold);
+      }
+
+      .topic-card--rust {
+        border-top-color: var(--rust);
+      }
+
+      .topic-card__head {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        align-items: baseline;
+        margin-bottom: 8px;
+      }
+
+      .topic-card__title {
+        margin: 0;
+        font-size: 0.78rem;
+        font-weight: 900;
+        color: var(--ink);
+      }
+
+      .topic-card__sub {
+        color: var(--muted);
+        font-size: 0.48rem;
+      }
+
+      .topic-card__list {
+        display: grid;
+        gap: 8px;
+        margin: 0;
+        padding-left: 16px;
+      }
+
+      .topic-card__list li {
+        margin: 0;
+      }
+
+      .appendix-index {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+
+      .appendix-item {
+        display: grid;
+        grid-template-columns: 42px 1fr;
+        gap: 10px;
+        align-items: start;
+        padding: 10px 12px;
+        background: rgba(255, 255, 255, 0.82);
+        border: 1px solid rgba(31, 49, 95, 0.08);
+      }
+
+      .appendix-item__num {
+        display: grid;
+        place-items: center;
+        width: 42px;
+        height: 42px;
+        border-radius: 999px;
+        background: var(--navy);
+        color: #fff;
+        font-size: 0.54rem;
+        font-weight: 900;
+      }
+
+      .appendix-item__title {
+        margin: 0 0 4px;
+        font-size: 0.58rem;
+        font-weight: 800;
+        color: var(--ink);
+      }
+
+      .appendix-item__meta {
+        color: var(--muted);
+        font-size: 0.46rem;
+      }
+
+      .docx-summary-grid {
+        display: grid;
+        grid-template-columns: 1.1fr 0.9fr;
+        gap: 14px;
+        align-items: start;
+      }
+
+      .docx-note {
+        margin: 0 0 10px;
+        color: var(--muted);
+        font-size: 0.54rem;
+      }
+
+      .docx-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.43rem;
+      }
+
+      .docx-table th {
+        background: var(--navy);
+        color: #fff;
+        padding: 6px 5px;
+        font-weight: 800;
+        text-align: left;
+      }
+
+      .docx-table td {
+        padding: 7px 5px;
+        border-bottom: 1px solid rgba(31, 49, 95, 0.08);
+        vertical-align: top;
+      }
+
+      .docx-table tbody tr:nth-child(even) td {
+        background: rgba(247, 244, 236, 0.88);
+      }
+
+      .docx-card {
+        background: rgba(255, 255, 255, 0.84);
+        border: 1px solid rgba(31, 49, 95, 0.08);
+        border-left: 5px solid var(--rust);
+        padding: 12px 13px;
+        box-shadow: 0 12px 30px rgba(21, 35, 66, 0.05);
+      }
+
+      .docx-card + .docx-card {
+        margin-top: 12px;
+      }
+
+      .docx-card__title {
+        margin: 0 0 6px;
+        font-size: 0.78rem;
+        font-weight: 900;
+      }
+
+      .docx-card__meta {
+        color: var(--muted);
+        font-size: 0.46rem;
+        margin-bottom: 8px;
+      }
+
+      .docx-card__list {
+        margin: 0;
+        padding-left: 16px;
+        display: grid;
+        gap: 7px;
+      }
+
+      .docx-card__list li {
+        margin: 0;
+      }
+
+      .docx-two-up {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .docx-attachment {
+        padding: 10px 12px;
+        background: rgba(255, 255, 255, 0.84);
+        border: 1px solid rgba(31, 49, 95, 0.08);
+      }
+
+      .docx-attachment__title {
+        margin: 0 0 6px;
+        font-size: 0.64rem;
+        font-weight: 900;
+        color: var(--navy);
+      }
+
+      .docx-attachment__text {
+        color: var(--ink);
+        font-size: 0.48rem;
+        line-height: 1.45;
+      }
     </style>
   </head>
   <body>

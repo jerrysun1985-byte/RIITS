@@ -1,27 +1,27 @@
 <section class="report-slide">
   <div class="report-shell report-shell--navy">
     <div class="report-content">
-      <p class="report-kicker">染色异常处理报告</p>
+      <p class="report-kicker">染色異常處理報告</p>
       <div class="cover-grid">
         <div>
-          <h1 class="cover-title">异常工卡进度汇报</h1>
-          <p class="cover-subtitle">AD 异常清单 · 15 项工卡进度跟踪</p>
+          <h1 class="cover-title">異常工卡進度匯報</h1>
+          <p class="cover-subtitle">AD 異常清單 · 15 項工卡進度追蹤</p>
           <div class="cover-line"></div>
           <div class="cover-meta">
             <div>
-              <div class="cover-meta__label">报告范围</div>
-              <div class="cover-meta__value">工卡异常分析 · 配方调整 · 进度跟踪</div>
+              <div class="cover-meta__label">報告範圍</div>
+              <div class="cover-meta__value">工卡異常分析 · 配方調整 · 進度追蹤</div>
             </div>
             <div>
-              <div class="cover-meta__label">汇报日期</div>
-              <div class="cover-meta__value">2026 年 5 月31号</div>
+              <div class="cover-meta__label">匯報日期</div>
+              <div class="cover-meta__value">2026 年 6 月 12 日</div>
             </div>
           </div>
         </div>
         <aside class="metric-card">
-          <p class="metric-card__label">总项目数</p>
+          <p class="metric-card__label">總項目數</p>
           <div class="metric-card__value">15</div>
-          <div class="metric-card__caption">项异常工卡</div>
+          <div class="metric-card__caption">項異常工卡</div>
         </aside>
       </div>
       <div class="report-footer">
@@ -39,15 +39,15 @@
     <div class="report-content">
       <header class="report-header">
         <div>
-          <p class="report-kicker">色样状态明细</p>
-          <h2 class="report-title">15 项工卡色样状态分类</h2>
+          <p class="report-kicker">色樣狀態明細</p>
+          <h2 class="report-title">15 項工卡色樣狀態分類</h2>
         </div>
-        <div class="report-page">02 / 20</div>
+        <div class="report-page">02 / 24</div>
       </header>
       <div class="tri-grid">
         <article class="status-column">
           <div class="status-column__head status-column__head--green">
-            <span>式染完成 · 测试</span>
+            <span>染色完成 · 測試</span>
             <span class="status-column__count">6</span>
           </div>
           <div class="status-list">
@@ -79,7 +79,7 @@
         </article>
         <article class="status-column">
           <div class="status-column__head status-column__head--amber">
-            <span>继续调整中</span>
+            <span>持續調整中</span>
             <span class="status-column__count">7</span>
           </div>
           <div class="status-list">
@@ -115,7 +115,7 @@
         </article>
         <article class="status-column">
           <div class="status-column__head status-column__head--green">
-            <span>颜色OK 待排缸</span>
+            <span>顏色 OK 待排缸</span>
             <span class="status-column__count">2</span>
           </div>
           <div class="status-list">
@@ -130,7 +130,7 @@
           </div>
         </article>
       </div>
-      <p class="status-summary">汇总：6 项大货完成（Data Color） / 2 项颜色 OK 待排缸下周 / 7 项继续调整中</p>
+      <p class="status-summary">彙總：6 項大貨完成（Data Color）／2 項顏色 OK 待排缸下週／7 項持續調整中</p>
     </div>
   </div>
 </section>
@@ -142,10 +142,10 @@
     <div class="report-content">
       <header class="report-header">
         <div>
-          <p class="report-kicker">改善方案明细</p>
-          <h2 class="report-title">三大类改善方向 ｜ 染料 · 助剂 · 染程</h2>
+          <p class="report-kicker">改善方案明細</p>
+          <h2 class="report-title">三大類改善方向 ｜ 染料 · 助劑 · 染程</h2>
         </div>
-        <div class="report-page">03 / 20</div>
+        <div class="report-page">03 / 24</div>
       </header>
       <div class="plan-grid">
         <article class="plan-card">
@@ -181,8 +181,8 @@
         </article>
       </div>
       <div class="report-footer">
-        <span>改善方向覆盖染料/助剂/染程三大维度</span>
-        <span>适用于高 OP 染色及跳灯优化</span>
+        <span>改善方向覆蓋染料／助劑／染程三大維度</span>
+        <span>適用於高 OP 染色及跳燈優化</span>
       </div>
     </div>
   </div>
@@ -195,17 +195,17 @@
     <div class="report-content">
       <header class="report-header">
         <div>
-          <p class="report-kicker">改善方案明细</p>
-          <h2 class="report-title">三大类改善方向 ｜ 染料 · 助剂 · 染程</h2>
+          <p class="report-kicker">改善方案明細</p>
+          <h2 class="report-title">三大類改善方向 ｜ 染料 · 助劑 · 染程</h2>
         </div>
-        <div class="report-page">03 / 20</div>
+        <div class="report-page">04 / 24</div>
       </header>
       <div class="process-layout">
         <div class="process-figure">
           <img src="./images/process-compare.svg" alt="染程优化改前改后对照图" />
         </div>
         <aside class="process-card">
-          <h3>03 染程优化</h3>
+          <h3>03 染程優化</h3>
           <ul>
             <li>旧染程（无持温） → <b>120°C 持温 10 分</b></li>
             <li>快速升温（色花风险） → <b>60→100°C 持温 10 分 斜率 1</b></li>
@@ -216,8 +216,8 @@
         </aside>
       </div>
       <div class="report-footer">
-        <span>改前 / 改后对照</span>
-        <span>适用于高 OP 染色及跳灯优化</span>
+        <span>改前／改後對照</span>
+        <span>適用於高 OP 染色及跳燈優化</span>
       </div>
     </div>
   </div>
@@ -233,7 +233,7 @@
           <p class="report-kicker">01 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2610013500 · AJ34</h2>
         </div>
-        <div class="report-page">04 / 20</div>
+        <div class="report-page">05 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -287,7 +287,7 @@
           <p class="report-kicker">02 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650014700 · AJ3B</h2>
         </div>
-        <div class="report-page">05 / 20</div>
+        <div class="report-page">06 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -351,7 +351,7 @@
           <p class="report-kicker">03 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650014710 · ADEY</h2>
         </div>
-        <div class="report-page">06 / 20</div>
+        <div class="report-page">07 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -404,7 +404,7 @@
           <p class="report-kicker">04 工卡异常跟踪</p>
           <h2 class="report-title">工卡 25C0051732 · ABZQ</h2>
         </div>
-        <div class="report-page">07 / 20</div>
+        <div class="report-page">08 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -458,7 +458,7 @@
           <p class="report-kicker">05 工卡异常跟踪</p>
           <h2 class="report-title">工卡 25C0017651 · AETF</h2>
         </div>
-        <div class="report-page">08 / 20</div>
+        <div class="report-page">09 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -512,7 +512,7 @@
           <p class="report-kicker">06 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2610016331 · ABZQ</h2>
         </div>
-        <div class="report-page">09 / 20</div>
+        <div class="report-page">10 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -565,7 +565,7 @@
           <p class="report-kicker">07 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650015060 · ADFY</h2>
         </div>
-        <div class="report-page">10 / 20</div>
+        <div class="report-page">11 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -629,7 +629,7 @@
           <p class="report-kicker">08 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650016870 · AEDA</h2>
         </div>
-        <div class="report-page">11 / 20</div>
+        <div class="report-page">12 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -692,7 +692,7 @@
           <p class="report-kicker">09 工卡异常跟踪</p>
           <h2 class="report-title">工卡 25C0086791 · AETF</h2>
         </div>
-        <div class="report-page">12 / 20</div>
+        <div class="report-page">13 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -747,7 +747,7 @@
           <p class="report-kicker">10 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650015070 · AEDE</h2>
         </div>
-        <div class="report-page">13 / 20</div>
+        <div class="report-page">14 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -811,7 +811,7 @@
           <p class="report-kicker">11 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650015080 · AJ3B</h2>
         </div>
-        <div class="report-page">14 / 20</div>
+        <div class="report-page">15 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -866,7 +866,7 @@
           <p class="report-kicker">12 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2610043870 · AJ34</h2>
         </div>
-        <div class="report-page">15 / 20</div>
+        <div class="report-page">16 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -917,7 +917,7 @@
           <p class="report-kicker">13 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2610047320 · AJ3B</h2>
         </div>
-        <div class="report-page">16 / 20</div>
+        <div class="report-page">17 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -969,7 +969,7 @@
           <p class="report-kicker">14 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650015090 · AA2U/ABZU/095A</h2>
         </div>
-        <div class="report-page">17 / 20</div>
+        <div class="report-page">18 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -1033,7 +1033,7 @@
           <p class="report-kicker">15 工卡异常跟踪</p>
           <h2 class="report-title">工卡 2650015100 · AE65/AJ34/6105C/2717C</h2>
         </div>
-        <div class="report-page">18 / 20</div>
+        <div class="report-page">19 / 24</div>
       </header>
       <div class="case-grid">
         <div class="info-panel">
@@ -1093,10 +1093,231 @@
     <div class="report-content">
       <header class="report-header">
         <div>
+          <p class="report-kicker">議題彙整｜前半段補強</p>
+          <h2 class="report-title">034–037 牢度、酚黃、橫條、光源差</h2>
+        </div>
+        <div class="report-page">20 / 24</div>
+      </header>
+      <div class="docx-summary-grid">
+        <div>
+          <p class="docx-note">依照原 DOCX 的頁序重整，保留議題序列、申請人、ITEM 與結論要點。</p>
+          <table class="docx-table">
+            <thead>
+              <tr>
+                <th style="width: 10%;">議題</th>
+                <th style="width: 18%;">申請人 / ITEM</th>
+                <th style="width: 18%;">主題</th>
+                <th style="width: 18%;">異常</th>
+                <th style="width: 36%;">結論摘要</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>034</td>
+                <td>陳建志<br />PU90925</td>
+                <td>改善牢度、鮮豔度</td>
+                <td>牢度 / 光源差</td>
+                <td>原配方已是最好組合；新配方艷度可，但光源差大，水洗與熱轉移牢度未達 3.5 級以上，待遠東確認。</td>
+              </tr>
+              <tr>
+                <td>035</td>
+                <td>黃君儀<br />ARF3782</td>
+                <td>ALO YOGA 酚黃</td>
+                <td>酚黃</td>
+                <td>已提供建議配方 #6 / #7，並安排檸檬酸浸泡測試；待遠東回覆酚黃結果。</td>
+              </tr>
+              <tr>
+                <td>036</td>
+                <td>台灣化驗室<br />1113</td>
+                <td>PATAGONIA 橫條</td>
+                <td>橫條</td>
+                <td>建議胚布前處理後再染色，並於染色中添加 LV-CT，實驗仍在進行中。</td>
+              </tr>
+              <tr>
+                <td>037</td>
+                <td>台灣化驗室<br />409741</td>
+                <td>改善光源差</td>
+                <td>光源差</td>
+                <td>RIITS 與 DyStar 皆可降低光源差；MI 分別為 F11 / 0.19、A / 0.28 與 F11 / 0.14、A / 0.05，待遠東選擇。</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div>
+          <article class="docx-card">
+            <h3 class="docx-card__title">034 牢度 / 鮮豔度</h3>
+            <div class="docx-card__meta">ITEM PU90925 · 80% Recycled Polyester / 14% Spandex</div>
+            <ul class="docx-card__list">
+              <li>原配方：0.475% Dianix Br. Violet B + 1.000% Goldenlon Br. Blue RN BS。</li>
+              <li>新配方：0.440% Goldenlon Br. Blue RN BS + 0.500% Goldenlon Br. Violet RR BS + 1.800% Goldenlon Br. Violet BB BS。</li>
+              <li>結論：艷度可以，但光源差大；水洗與熱轉移牢度未達標。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">035 酚黃</h3>
+            <div class="docx-card__meta">ITEM ARF3782 · WHITE / 89% RePo / 11% OP</div>
+            <ul class="docx-card__list">
+              <li>建議配方 #6、#7 已提供，並以 1.0 g/L 檸檬酸浸泡 10 分鐘測試。</li>
+              <li>重點是先看遠東酚黃結果，再決定是否導入。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">036 橫條 / 037 光源差</h3>
+            <div class="docx-card__meta">PATAGONIA / 409741</div>
+            <ul class="docx-card__list">
+              <li>036：建議前處理 + LV-CT，降低尼龍布種橫條。</li>
+              <li>037：RIITS 與 DyStar 皆可降低光源差，屬配方選擇題。</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+---
+
+<section class="report-slide">
+  <div class="report-shell">
+    <div class="report-content">
+      <header class="report-header">
+        <div>
+          <p class="report-kicker">議題彙整｜前半段補強</p>
+          <h2 class="report-title">038–041 布面色跡、牢度與替代配方</h2>
+        </div>
+        <div class="report-page">21 / 24</div>
+      </header>
+      <div class="docx-summary-grid">
+        <div class="docx-two-up">
+          <article class="docx-card">
+            <h3 class="docx-card__title">038、039 布面色跡</h3>
+            <div class="docx-card__meta">ITEM 6298 / 4495 · 2RP90SDF30 E WA / 28RP75 I WA GG UVC</div>
+            <ul class="docx-card__list">
+              <li>精煉後色跡可略減，但均染剝色後仍有殘留，表示污染或分散問題未完全解決。</li>
+              <li>建議染料溶解時加 0.5% 分散劑，染浴中分散劑提升至 1.0%~1.5%，並增加清缸次數。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">040 牢度 / 光源 D65/CWF</h3>
+            <div class="docx-card__meta">ITEM RS9D0042-PE02AT (1117) · 32CDR75RP50SP40 E GG WA</div>
+            <ul class="docx-card__list">
+              <li>Riits 配方 A / B 與 DyStar 配方皆測試水洗牢度，MI 三組都維持 CWF 0.27~0.31。</li>
+              <li>結論：兩邊光源差都小，待遠東確認牢度是否可接受。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">041 替代配方組合</h3>
+            <div class="docx-card__meta">ITEM 647843 · 28T75(SIGMA) J WA / 100% Polyester</div>
+            <ul class="docx-card__list">
+              <li>Riits 配方光源差稍大，DyStar 配方較小；Br Orange G 需控制在 0.5% 以下。</li>
+              <li>原則是以 Orange AM-SLR 補足，保留較小的光源差。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">共通判讀</h3>
+            <div class="docx-card__meta">光源差 / 牢度 / 布面異常</div>
+            <ul class="docx-card__list">
+              <li>若異常主要在光源差，先比較配方 MI 與色相穩定度。</li>
+              <li>若異常出現在布面，則先檢查分散、清缸與浴比，而不只改主染料。</li>
+            </ul>
+          </article>
+        </div>
+        <div>
+          <div class="docx-attachment">
+            <h4 class="docx-attachment__title">附件重點</h4>
+            <div class="docx-attachment__text">
+              038 / 039 建議重點在分散劑與清缸。<br />
+              040 / 041 建議維持配方差異小的路徑，並以 MI 與牢度作為最終選擇標準。
+            </div>
+          </div>
+          <div class="docx-attachment" style="margin-top: 12px;">
+            <h4 class="docx-attachment__title">原文件語氣保留</h4>
+            <div class="docx-attachment__text">
+              以「待遠東確認」或「待選擇」作為收斂句，保留原 DOCX 的審核節奏與決策語氣。
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+---
+
+<section class="report-slide">
+  <div class="report-shell">
+    <div class="report-content">
+      <header class="report-header">
+        <div>
+          <p class="report-kicker">議題彙整｜前半段補強</p>
+          <h2 class="report-title">042–043 布面雞爪與附錄索引</h2>
+        </div>
+        <div class="report-page">22 / 24</div>
+      </header>
+      <div class="docx-summary-grid">
+        <div class="docx-two-up">
+          <article class="docx-card">
+            <h3 class="docx-card__title">042 布面雞爪</h3>
+            <div class="docx-card__meta">ITEM 4397 · 28RP75I WA UVC / 台灣染色現場</div>
+            <ul class="docx-card__list">
+              <li>建議浴比投布量盡可能達到 L:R ≒ 1:15~20。</li>
+              <li>缸鍊條件中添加 FHB conc，染色中也添加 0.3 g/L FHB conc，並放慢降溫速度。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">043 布面雞爪</h3>
+            <div class="docx-card__meta">ITEM 2060 · 28RP75I WA / 台灣染色現場</div>
+            <ul class="docx-card__list">
+              <li>沿用 042 的改善邏輯，並將 85℃~70℃以下降溫曲線調整為 1.5~2.0℃/min。</li>
+              <li>PS：T100%、Re-T 100%、T/OP 建議染程在 120℃左右須持溫，以避免色花與色污。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">附件摘要</h3>
+            <div class="docx-card__meta">原文件附件重點整理</div>
+            <ul class="docx-card__list">
+              <li>038 / 039：均染剝色後布面色跡有減少或仍殘留，核心仍是分散與清缸。</li>
+              <li>040 / 041：配方比較重點為 MI 與光源差，保留遠東確認彈性。</li>
+            </ul>
+          </article>
+          <article class="docx-card">
+            <h3 class="docx-card__title">附錄索引</h3>
+            <div class="docx-card__meta">034–043 對照</div>
+            <ul class="docx-card__list">
+              <li>034 牢度、鮮豔度、光源差</li>
+              <li>035 酚黃</li>
+              <li>036 橫條</li>
+              <li>037 光源差</li>
+              <li>038 / 039 布面色跡</li>
+              <li>040 牢度</li>
+              <li>041 替代配方組合</li>
+              <li>042 / 043 布面雞爪</li>
+            </ul>
+          </article>
+        </div>
+        <div class="docx-attachment">
+          <h4 class="docx-attachment__title">共通結論</h4>
+          <div class="docx-attachment__text">
+            當異常集中在外觀或色差時，優先檢查配方選擇、浴比、分散劑、清缸與降溫曲線。<br />
+            若是需決策的配方題，保留原 DOCX 的語氣：待遠東確認 / 待選擇 / 實驗進行中。
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+---
+
+<section class="report-slide">
+  <div class="report-shell">
+    <div class="report-content">
+      <header class="report-header">
+        <div>
           <p class="report-kicker">DATA COLOR · 大货 vs Lab 测试结果</p>
           <h2 class="report-title">6 项色样 Data Color 测试总结</h2>
         </div>
-        <div class="report-page">20 / 21</div>
+        <div class="report-page">23 / 24</div>
       </header>
       <table class="summary-table">
         <thead>
@@ -1216,6 +1437,7 @@
     <div class="report-content">
       <p class="report-kicker">NEXT STEPS · 下一阶段重点工作</p>
       <h2 class="cover-title" style="margin-top: 10px;">下周计划与改善方向</h2>
+      <div class="report-page" style="position:absolute; top: 28px; right: 42px;">24 / 24</div>
       <div class="cover-line"></div>
       <div class="next-metrics">
         <div class="next-metric">
@@ -1255,7 +1477,7 @@
       </div>
       <div class="report-footer">
         <span>染整制程改善小组</span>
-        <span>— 报告完 · END —</span>
+        <span>報告完畢 · END</span>
       </div>
     </div>
   </div>
