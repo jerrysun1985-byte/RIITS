@@ -1,12 +1,35 @@
 [
   {
+    "id": "farglory-2026-06-12-fet-three-site-exchange",
+    "client": "遠東",
+    "title": "20260612遠東技術交流",
+    "date": "2026-06-12",
+    "slug": "2026-06-12-fet-three-site-exchange",
+    "path": "decks/farglory/2026-06-12-fet-three-site-exchange/",
+    "tags": [
+      "三地交流會",
+      "議題改善",
+      "客戶簡報"
+    ],
+    "status": "active",
+    "auth": {
+      "required": true,
+      "key": "farglory-2026-06-12"
+    }
+  },
+  {
     "id": "farglory-2026-06-12-ad-dyeing-report",
     "client": "遠東",
     "title": "AD染色處理報告",
     "date": "2026-06-12",
     "slug": "2026-06-12-ad-dyeing-report",
     "path": "decks/farglory/2026-06-12-ad-dyeing-report/",
-    "tags": ["AD", "染色處理", "工卡異常", "客戶簡報"],
+    "tags": [
+      "AD",
+      "染色處理",
+      "工卡異常",
+      "客戶簡報"
+    ],
     "status": "active",
     "auth": {
       "required": true,
@@ -20,7 +43,11 @@
     "date": "2026-05-30",
     "slug": "2026-05-30-textile-dyeing-notes",
     "path": "decks/farglory/2026-05-30-textile-dyeing-notes/",
-    "tags": ["紡織", "染整", "客戶簡報"],
+    "tags": [
+      "紡織",
+      "染整",
+      "客戶簡報"
+    ],
     "status": "active",
     "auth": {
       "required": true,
@@ -34,7 +61,11 @@
     "date": "2026-05-23",
     "slug": "2026-05-23-eco-cert",
     "path": "decks/farglory/2026-05-23-eco-cert/",
-    "tags": ["環保認證", "永續", "客戶簡報"],
+    "tags": [
+      "環保認證",
+      "永續",
+      "客戶簡報"
+    ],
     "status": "archived",
     "auth": {
       "required": true,
@@ -48,7 +79,12 @@
     "date": "2026-06-04",
     "slug": "2026-06-04-image-table-template",
     "path": "decks/riits/2026-06-04-image-table-template/",
-    "tags": ["正式範本", "圖文", "表格", "客戶簡報"],
+    "tags": [
+      "正式範本",
+      "圖文",
+      "表格",
+      "客戶簡報"
+    ],
     "status": "active",
     "auth": {
       "required": false

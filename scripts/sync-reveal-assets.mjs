@@ -5,9 +5,9 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const projectRoot = join(__dirname, '..');
 const sourceDir = join(projectRoot, 'node_modules', 'reveal.js', 'dist');
-const targetDir = join(projectRoot, 'public', 'vendor', 'reveal', 'dist');
+const targetDir = join(projectRoot, 'public', 'vendor', 'revealjs', 'dist');
 
-await rm(join(projectRoot, 'public', 'vendor', 'reveal'), {
+await rm(join(projectRoot, 'public', 'vendor', 'revealjs'), {
   recursive: true,
   force: true,
 });

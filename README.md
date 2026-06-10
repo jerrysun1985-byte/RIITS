@@ -19,9 +19,10 @@
 - `public/decks/riits/2026-06-04-image-table-template/`: 圖文表格正式範本
 - `public/decks/<client>/<yyyy-mm-dd-topic-slug>/images/`: 圖片素材
 - `public/decks/<client>/<yyyy-mm-dd-topic-slug>/assets/`: 其他附檔、圖表或匯出素材
+- `sources/`: 原始簡報、Markdown 與素材封存區，不直接作為網站入口
 - `public/assets/deck-loader.js`: reveal.js 啟動腳本
 - `public/assets/auth-gate.js`: 密碼保護流程
-- `scripts/sync-reveal-assets.mjs`: 將 npm 的 reveal.js 靜態資產同步到 `public/vendor`
+- `scripts/sync-reveal-assets.mjs`: 將 npm 的 reveal.js 靜態資產同步到 `public/vendor/revealjs`
 
 ## 新增簡報的標準流程
 
@@ -143,4 +144,4 @@ node -e "const c=require('crypto'); console.log(c.createHash('sha256').update('�
 
 - 建議 slug 使用小寫英文與 `-`
 - deck 路徑要與 `decks.json` 的 `path` 完全一致
-- `npm run dev` / `npm run build` 都會先同步 reveal.js 靜態資產到 `public/vendor/reveal`
+- `npm run dev` / `npm run build` 都會先同步 reveal.js 靜態資產到 `public/vendor/revealjs`
