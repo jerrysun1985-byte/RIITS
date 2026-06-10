@@ -31,6 +31,8 @@ Internal Technical Report
 
 1
 
+---
+
 ## Slide 2
 
 ![Slide 2 Image 4](20260612遠東技術交流-0609_files/image4.png)
@@ -52,6 +54,8 @@ AJ3B-70036670 偏深 +20.31%；AA2U-70041544 偏深 +10.86%，需優先重打。
 ### Speaker Notes
 
 2
+
+---
 
 ## Slide 3
 
@@ -81,6 +85,8 @@ AJ3B-70036670 偏深 +20.31%；AA2U-70041544 偏深 +10.86%，需優先重打。
 
 3
 
+---
+
 ## Slide 4
 
 ![Slide 4 Image 6](20260612遠東技術交流-0609_files/image6.png)
@@ -88,6 +94,8 @@ AJ3B-70036670 偏深 +20.31%；AA2U-70041544 偏深 +10.86%，需優先重打。
 ### Speaker Notes
 
 4
+
+---
 
 ## Slide 5
 
@@ -118,6 +126,8 @@ AJ3B-70036670 偏深 +20.31%；AA2U-70041544 偏深 +10.86%，需優先重打。
 
 5
 
+---
+
 ## Slide 6
 
 ![Slide 6 Image 8](20260612遠東技術交流-0609_files/image8.png)
@@ -125,6 +135,8 @@ AJ3B-70036670 偏深 +20.31%；AA2U-70041544 偏深 +10.86%，需優先重打。
 ### Speaker Notes
 
 6
+
+---
 
 ## Slide 7
 
@@ -138,6 +150,8 @@ MI 全部良好：0.03–0.13 ｜ 6/8 項偏深 ｜ 最大異常：AJ3B-70036670
 
 7
 
+---
+
 ## Slide 8
 
 ![Slide 8 Image 10](20260612遠東技術交流-0609_files/image10.png)
@@ -146,6 +160,8 @@ MI 全部良好：0.03–0.13 ｜ 6/8 項偏深 ｜ 最大異常：AJ3B-70036670
 
 8
 
+---
+
 ## Slide 9
 
 ![Slide 9 Image 11](20260612遠東技術交流-0609_files/image11.png)
@@ -153,6 +169,8 @@ MI 全部良好：0.03–0.13 ｜ 6/8 項偏深 ｜ 最大異常：AJ3B-70036670
 ### Speaker Notes
 
 9
+
+---
 
 ## Slide 10
 
@@ -215,6 +233,8 @@ MI 全部良好：0.03–0.13 ｜ 6/8 項偏深 ｜ 最大異常：AJ3B-70036670
 2650014570 · AJ34 · 70005795
 
 2610047320 · AJ3B · 70038437
+
+---
 
 ## Slide 11
 
@@ -288,6 +308,8 @@ pH 控制
 
 → 前后 pH 差异 ≤ 0.5 / 4.5-5.5
 
+---
+
 ## Slide 12
 
 改善方案明细
@@ -329,6 +351,8 @@ pH 控制
 → 前后 pH 差异 ≤ 0.5 / 4.5-5.5
 
 改善方向覆盖染料/助剂/染程三大维度，适用于高 OP 染色及跳灯优化
+
+---
 
 ## Slide 13
 
@@ -425,6 +449,8 @@ Brill.Violet BB + Violet HWBF + Navy Blue HW-LE · TX 0.6 / 640→CPX 2g / PAB 3
 ![Slide 13 Image 14](20260612遠東技術交流-0609_files/image14.png)
 
 染色异常处理报告 · Item 01 of 15 · 2026/06/05
+
+---
 
 ## Slide 14
 
@@ -530,6 +556,8 @@ CMC DE
 
 染色异常处理报告 · Item 02 of 15 · 2026/06/05
 
+---
+
 ## Slide 15
 
 03
@@ -634,6 +662,8 @@ C 配方 Synozol Ultra Yellow / Wine / Navy DS · 棉涤双染 · 已大货验�
 
 染色异常处理报告 · Item 03 of 15 · 2026/06/05
 
+---
+
 ## Slide 16
 
 04
@@ -729,6 +759,8 @@ Dianix Yellow Brown XF2 1.18% + Navy DXF-02 1.36% + Deep Red HW-SFN 0.052%
 ![Slide 16 Image 19](20260612遠東技術交流-0609_files/image18.png)
 
 染色异常处理报告 · Item 04 of 15 · 2026/06/05
+
+---
 
 ## Slide 17
 
@@ -828,6 +860,8 @@ Orange 1515→Yellow GLS · Rubine→1224 Deep Red · Navy DXF→Navy HWE 300% �
 
 染色异常处理报告 · Item 05 of 15 · 2026/06/05
 
+---
+
 ## Slide 18
 
 06
@@ -921,6 +955,8 @@ Dianix Yellow Brown XF2 1.28% + Dianix Rubine XFS 0.16% + Goldenlon Blue DXF-02 
 ![Slide 18 Image 23](20260612遠東技術交流-0609_files/image22.png)
 
 染色异常处理报告 · Item 06 of 15 · 2026/06/05
+
+---
 
 ## Slide 19
 
@@ -1026,6 +1062,8 @@ Dianix Yellow PLUS 0.179% + Red PLUS 0.19% + Deep Blue PLUS 01 0.39% · TX 0.9 g
 
 染色异常处理报告 · Item 07 of 15 · 2026/06/05
 
+---
+
 ## Slide 20
 
 08
@@ -1126,6 +1164,8 @@ CMC DE
 
 染色异常处理报告 · Item 08 of 15 · 2026/06/05
 
+---
+
 ## Slide 21
 
 09
@@ -1221,6 +1261,8 @@ CMC DE
 ![Slide 21 Image 28](20260612遠東技術交流-0609_files/image18.png)
 
 染色异常处理报告 · Item 09 of 15 · 2026/06/05
+
+---
 
 ## Slide 22
 
@@ -1326,6 +1368,8 @@ RUBINE XF→DIANIX RUBINE XFS · TX 1.0 g/L · ABLUTEX BLM-F 0.2 g/L · 升温�
 
 染色异常处理报告 · Item 10 of 15 · 2026/06/05
 
+---
+
 ## Slide 23
 
 11
@@ -1422,6 +1466,8 @@ Rubine→1224 Deep Red 厂内 · Navy BDXF→Navy HWE 300% · TX 0.6 g/L · CPX 
 
 染色异常处理报告 · Item 11 of 15 · 2026/06/05
 
+---
+
 ## Slide 24
 
 12
@@ -1516,6 +1562,8 @@ CMC DE
 
 染色异常处理报告 · Item 12 of 15 · 2026/06/05
 
+---
+
 ## Slide 25
 
 13
@@ -1603,6 +1651,8 @@ Dianix Rubine XFS · TX 1.0 g/L · ABLUTEX BLM-F 0.2 g/L · 升温速率降慢
 ![Slide 25 Image 35](20260612遠東技術交流-0609_files/image31.png)
 
 染色异常处理报告 · Item 13 of 15 · 2026/06/05
+
+---
 
 ## Slide 26
 
@@ -1704,6 +1754,8 @@ Yellow XF2→1310 · Navy DXF→Navy HWE 300% · TX 0.6 g/L · CPX 2 g/L ⚠️ 
 
 染色异常处理报告 · Item 14 of 15 · 2026/06/05
 
+---
+
 ## Slide 27
 
 15
@@ -1804,6 +1856,8 @@ ACE 配色 · 均染剂加高 · TX 1.0 g/L · Dianix Orange PLUS + Rubine PLUS 
 
 染色异常处理报告 · Item 15 of 15 · 2026/06/05
 
+---
+
 ## Slide 28
 
 Data Color 大货 vs Lab 测试总结
@@ -1885,6 +1939,8 @@ Pass 略蓝
 ### Speaker Notes
 
 28
+
+---
 
 ## Slide 29
 
@@ -2092,6 +2148,8 @@ Fail 严重, 需减用量 17~18% 重打 + 工艺改善
 
 03
 
+---
+
 ## Slide 30
 
 ![Slide 30 Image 41](20260612遠東技術交流-0609_files/image36.png)
@@ -2100,6 +2158,8 @@ Fail 严重, 需减用量 17~18% 重打 + 工艺改善
 
 30
 
+---
+
 ## Slide 31
 
 ![Slide 31 Image 42](20260612遠東技術交流-0609_files/image37.png)
@@ -2107,6 +2167,8 @@ Fail 严重, 需减用量 17~18% 重打 + 工艺改善
 ### Speaker Notes
 
 31
+
+---
 
 ## Slide 32
 
@@ -2132,6 +2194,8 @@ Riits 與 DyStar 皆提供光源差較小配方。DyStar MI：F11 / 0.14，A / 0
 
 32
 
+---
+
 ## Slide 33
 
 ![Slide 33 Image 44](20260612遠東技術交流-0609_files/image39.png)
@@ -2139,6 +2203,8 @@ Riits 與 DyStar 皆提供光源差較小配方。DyStar MI：F11 / 0.14，A / 0
 ### Speaker Notes
 
 33
+
+---
 
 ## Slide 34
 
@@ -2167,6 +2233,8 @@ ALO YOGA · PATAGONIA · 一般內部品項
 ### Speaker Notes
 
 34
+
+---
 
 ## Slide 35
 
@@ -2324,6 +2392,8 @@ WSF 2.5N 須提升至 3.5+
 
 35
 
+---
+
 ## Slide 36
 
 議題序列 #023
@@ -2406,6 +2476,8 @@ Dianix Blue AM-R
 
 36
 
+---
+
 ## Slide 37
 
 議題序列 #023 — 階段染色分析
@@ -2437,6 +2509,8 @@ Dianix Blue AM-R
 ### Speaker Notes
 
 37
+
+---
 
 ## Slide 38
 
@@ -2517,6 +2591,8 @@ Br. Violet BB BS
 ### Speaker Notes
 
 38
+
+---
 
 ## Slide 39
 
@@ -2638,6 +2714,8 @@ PH 4.5，130℃×30min，直接烘乾
 
 39
 
+---
+
 ## Slide 40
 
 議題序列 #036
@@ -2711,6 +2789,8 @@ PATAGONIA 指定布種為再生尼龍（ReNy）混萊卡（LY）結構，因尼�
 
 40
 
+---
+
 ## Slide 41
 
 議題序列 #036 — 附件
@@ -2734,6 +2814,8 @@ PATAGONIA 橫條改善——布面效果比較
 ### Speaker Notes
 
 41
+
+---
 
 ## Slide 42
 
@@ -2870,6 +2952,8 @@ Goldenlon Blue F-2GS BS
 
 42
 
+---
+
 ## Slide 43
 
 議題序列 #038 · #039
@@ -2962,6 +3046,8 @@ PH 4.5 · 130℃ × 30min
 
 43
 
+---
+
 ## Slide 44
 
 議題序列 #039 — 技術補充
@@ -2997,6 +3083,8 @@ ISOPON PM 清缸劑——預防布面色污的核心技術
 ### Speaker Notes
 
 44
+
+---
 
 ## Slide 45
 
@@ -3093,6 +3181,8 @@ ISOPON PM
 ### Speaker Notes
 
 45
+
+---
 
 ## Slide 46
 
@@ -3226,6 +3316,8 @@ CWF / 0.31
 
 46
 
+---
+
 ## Slide 47
 
 ![Slide 47 Image 74](20260612遠東技術交流-0609_files/image66.png)
@@ -3243,6 +3335,8 @@ CWF / 0.31
 ### Speaker Notes
 
 47
+
+---
 
 ## Slide 48
 
@@ -3379,6 +3473,8 @@ DyStar 配方策略：將 Br. Orange G 用量控制在 0.5% 以下，搭配 Oran
 
 48
 
+---
+
 ## Slide 49
 
 議題序列 #041 — 附件
@@ -3398,6 +3494,8 @@ DyStar 配方光源差比對
 ### Speaker Notes
 
 49
+
+---
 
 ## Slide 50
 
@@ -3469,6 +3567,8 @@ DyStar 配方光源差比對
 
 50
 
+---
+
 ## Slide 51
 
 議題序列 #042 · #043 — 降溫曲線規範
@@ -3524,6 +3624,8 @@ DyStar 配方光源差比對
 ### Speaker Notes
 
 51
+
+---
 
 ## Slide 52
 
@@ -3655,6 +3757,8 @@ DyStar 限量使用 + Orange AM-SLR 補足
 
 52
 
+---
+
 ## Slide 53
 
 後續追蹤事項與建議行動
@@ -3725,37 +3829,55 @@ DyStar 配方光源差優於 Riits，但需確認限量使用 Br. Orange G 是�
 
 53
 
+---
+
 ## Slide 54
 
 ![Slide 54 Image 98](20260612遠東技術交流-0609_files/image81.png)
+
+---
 
 ## Slide 55
 
 ![Slide 55 Image 99](20260612遠東技術交流-0609_files/image82.png)
 
+---
+
 ## Slide 56
 
 ![Slide 56 Image 100](20260612遠東技術交流-0609_files/image83.png)
+
+---
 
 ## Slide 57
 
 ![Slide 57 Image 101](20260612遠東技術交流-0609_files/image84.png)
 
+---
+
 ## Slide 58
 
 ![Slide 58 Image 102](20260612遠東技術交流-0609_files/image85.png)
+
+---
 
 ## Slide 59
 
 ![Slide 59 Image 103](20260612遠東技術交流-0609_files/image86.png)
 
+---
+
 ## Slide 60
 
 ![Slide 60 Image 104](20260612遠東技術交流-0609_files/image87.png)
 
+---
+
 ## Slide 61
 
 ![Slide 61 Image 105](20260612遠東技術交流-0609_files/image88.png)
+
+---
 
 ## Slide 62
 
